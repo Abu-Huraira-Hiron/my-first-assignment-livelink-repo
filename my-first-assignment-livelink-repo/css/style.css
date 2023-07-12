@@ -1,0 +1,302 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+
+
+.head{
+    padding-left: 300px;
+    top: 0px;
+width: 1920px;
+height: 850px;
+flex-shrink: 0;
+background: rgba(229, 84, 115, 0.10);
+display: flex;
+align-items: center;
+
+}
+
+nav{
+    display: flex;
+    padding-top:200px ;
+    padding-left:250px;
+    
+    
+}
+.h3{
+    display: flex;
+width: 708px;
+flex-direction: column;
+flex-shrink: 0;
+color: #272727;
+font-family: Lato;
+font-size: 60px;
+font-style: normal;
+font-weight: 200;
+line-height: normal;
+}
+.bani{
+    display: flex;
+width: 634px;
+flex-direction: column;
+flex-shrink: 0;
+color: rgba(39, 39, 39, 0.60);
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+}
+.btn{
+    display: inline-flex;
+padding: 10px 23px;
+align-items: flex-start;
+gap: 10px;
+border-radius: 8px;
+background: #E55473;
+}
+.Shop-Now{
+    color: #FFF;
+font-family: Lato;
+font-size: 10px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.fflower{
+    vertical-align: bottom;
+    margin-left: 200px;
+    
+}
+
+.parentsofall{
+
+}
+
+.our{
+
+    padding-top: 60px;
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+
+}
+
+.fp-container{
+
+padding-top: 40px;
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+
+}
+
+.second-container{
+    padding-left: 250px;
+    padding-top: 18px;
+    background-color: #FFF;
+    display: flex;
+    gap: 20px;
+
+}
+
+.round-card1{
+    width: 464px;
+height: 538px;
+flex-shrink: 0;
+border-radius: 300px 300px 0px 0px;
+background: rgba(167, 33, 98, 0.15);
+
+}
+
+.round-card2{
+    width: 464px;
+height: 538px;
+flex-shrink: 0;
+border-radius: 300px 300px 0px 0px;
+background: rgba(5, 151, 160, 0.15);
+
+}
+
+.round-card3{
+    width: 464px;
+height: 538px;
+flex-shrink: 0;
+border-radius: 300px 300px 0px 0px;
+background: rgba(71, 125, 17, 0.15);
+
+}
+
+.comment{
+    text-decoration: underline;
+padding-left: 45%;
+margin-top: 80px;}
+
+.comment1{text-decoration: underline;
+    padding-left: 45%;
+    margin-top: 120px;}
+
+}
+
+#dot{
+    text-decoration: underline;
+    margin-left: 500%;
+}
+
+.third-container{
+    display: flex;
+    align-items: center;
+    
+    margin-top: 100px;
+    width: 1922px;
+height: 620px;
+
+border-radius: 8px;
+background: rgba(229, 84, 115, 0.05);
+
+}
+
+.hot-deal{
+    color: #272727;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+
+}
+
+span{
+    color: #E55473;
+}
+
+.folo{
+    padding-left: 450px;
+    
+}
+
+.thirdcontainer-text{
+    padding-left: 300px;
+}
+
+.fourth-container{
+    
+}
+
+.Instagram{
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.fourthp-container{
+    color: #272727;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.four-flower{
+    margin-left: 220px;
+    display: flex;
+    gap: 20px;
+    list-style: none;
+}
+
+.fifth-container{
+    margin-top: 250px;
+    margin-left: 210px;
+    width: 1440px;
+height: 449px;
+flex-shrink: 0;
+background-image: url("/Rectangle\ 9.png");
+background-position: center;
+background-size: cover;
+padding-top: 50px;
+}
+
+.get{
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+
+.dolar{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+}
+
+#email{
+    padding-left: 100px;
+    width: 700px;
+height: 64px;
+flex-shrink: 0;
+border-radius: 8px;
+background: #FFF;
+}
+.enter{
+    padding-left: 300px;
+}
+
+
+                  /* last container or foter container */
+.sixth-container{
+    margin-top: 100px;
+    width: 1922px;
+height: 449px;
+flex-shrink: 0;
+background: #111010;
+}  
+
+.shop{
+    color: #E55473;
+font-family: Lato;
+font-size: 48px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+
+.shop-lastp{
+    display: flex;
+width: 625px;
+flex-direction: column;
+flex-shrink: 0;
+color: rgba(255, 255, 255, 0.90);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+padding-left: 680px;
+}
+
+.shop-name{
+    padding-left: 45%;
+    padding-top: 60px;
+}
